@@ -1,1 +1,7 @@
-package Go_jwt
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello, World!")
+}
